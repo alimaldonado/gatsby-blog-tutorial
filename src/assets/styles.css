@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.sidebar-hide {
+  display: none;
+}
+
+.sidebar-show {
+  display: block;
+  padding-top: 1em;
+  width: 40vh;
+}
+
+main {
+  padding-top: 4em;
+}
